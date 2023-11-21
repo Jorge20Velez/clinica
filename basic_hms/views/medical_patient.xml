@@ -462,6 +462,7 @@
 
 
 <!--Mi codigo para galeria-->
+
         <record id="medical_galeria_tree_view" model="ir.ui.view">
             <field name="name">medical.galeria.tree.view</field>
             <field name="model">medical.galeria.patient</field>
